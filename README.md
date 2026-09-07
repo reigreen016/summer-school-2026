@@ -1,1 +1,6 @@
 # summer-school-2026
+
+.
+├── (model26内の)data
+└── michiyomi-tokyo-streetscape
+以上の配置にしてあることを前提でコードを書きます．

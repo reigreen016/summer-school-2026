@@ -1,0 +1,11 @@
+# Python 3.10 で確認
+pyarrow        # michiyomi parquet の読み込み
+numpy
+scipy          # 疎行列解法・最適化
+matplotlib
+japanize-matplotlib   # 日本語フォント(IPAexGothic)
+fugashi        # 形態素解析
+unidic-lite    # fugashi 用辞書
+wordcloud      # ワードクラウド
+pyshp          # e-Stat シェープファイル読み込み(01のみ)
+shapely        # ポリゴン結合(01のみ)
